@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766777241874",
+    "firebase_url": "https://freshmilk-ee30a.firebaseio.com",
+    "project_id": "freshmilk-ee30a",
+    "storage_bucket": "freshmilk-ee30a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766777241874:android:13db88ebf6161c233743cb",
+        "android_client_info": {
+          "package_name": "com.example.myappl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766777241874-gijjlc1s4ni6gno4mgakl3hc9lavm1aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myappl",
+            "certificate_hash": "21f967edd19b0542a5e79f033607a7512c85383f"
+          }
+        },
+        {
+          "client_id": "766777241874-lutkv21bc510mbe2bnhh1apcrqqt3vos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6D5W7AblUu-uJaWka-vCS4TvuMdM_0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766777241874-lutkv21bc510mbe2bnhh1apcrqqt3vos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
